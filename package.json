@@ -1,19 +1,22 @@
 {
-    "name": "simple-service",
-    "version": "1.0.0",
-    "description": "",
-    "main": "app.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/simonhudson/simple-service.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/simonhudson/simple-service/issues"
-    },
-    "homepage": "https://github.com/simonhudson/simple-service#readme"
+  "name": "simple-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonhudson/simple-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonhudson/simple-service/issues"
+  },
+  "homepage": "https://github.com/simonhudson/simple-service#readme",
+  "dependencies": {
+        "express": "^4.14.1"
+  }
 }
